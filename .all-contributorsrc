@@ -929,6 +929,43 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "dbednar230",
+      "name": "Damian",
+      "avatar_url": "https://avatars.githubusercontent.com/u/54457902?v=4",
+      "profile": "https://github.com/dbednar230",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "benarmstead",
+      "name": "Ben Armstead",
+      "avatar_url": "https://avatars.githubusercontent.com/u/70973680?v=4",
+      "profile": "https://benarmstead.co.uk",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "anuk909",
+      "name": "anuk909",
+      "avatar_url": "https://avatars.githubusercontent.com/u/34924662?v=4",
+      "profile": "https://github.com/anuk909",
+      "contributions": [
+        "content",
+        "code"
+      ]
+    },
+    {
+      "login": "granddaifuku",
+      "name": "granddaifuku",
+      "avatar_url": "https://avatars.githubusercontent.com/u/49578068?v=4",
+      "profile": "https://granddaifuku.com/",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 8,
